@@ -1,2 +1,2 @@
-# data-science-resources
+# data-science-resources - Codebasics
 Resources
